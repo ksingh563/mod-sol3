@@ -1,0 +1,54 @@
+/** Header **/
+#header{
+    background-color: #463f3a;
+}
+.navbar-brand h2{
+    color: white;
+    margin: auto;
+}
+#nav-list{
+    margin-top: 10px;
+}
+#nav-list a{
+    color: yellow;
+    text-align: center;
+}
+
+/** Close Header **/
+
+/** Body **/
+#body{
+    background-color:#bcb8b1;
+    font-family: 'Cookie', cursive;
+    color: #000000;
+}
+#main-page{
+    background-color: #e0afa0;
+    font-size: 20px;
+    font-family: 'Cookie', cursive;
+    color: #000000;
+    margin: auto;
+}
+h2{
+    text-align: center;
+}
+
+/** Close Body **/
+
+@media(min-width: 1200px){
+
+}
+
+@media(min-width: 992px) and (max-width: 1199px){
+    
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+    
+}
+
+@media (max-width: 767px){
+    .container{
+        width: 90%;
+    }
+}
